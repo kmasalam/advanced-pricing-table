@@ -1,0 +1,794 @@
+/*--------------------------------------------- -------------
+    // - Responsive Css
+----------------------------------------------------------*/
+
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .advanced_addons_pricing_tbl.type-1 .block_body li {
+        color: #777777;
+        font-size: 16px;
+        padding-bottom: 24px;
+        line-height: 18px;
+    }
+    .advanced_addons_pricing_tbl.type-1 .block_currency {
+        font-weight: 900;
+        font-size: 40px;
+    }
+    .advanced_addons_pricing_tbl.type-1 h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .advanced_addons_pricing_tbl.type-9{
+        margin-bottom: 50px;
+    }
+    .advanced_addons_pricing_tbl.type-1 .block_circle {
+        height: 150px;
+        width: 150px;
+        margin-top: 20px;
+    }
+    .advanced_addons_team_member.type-1 img {
+        height: 100px;
+        width: 100px;
+    }
+    .fz-50 {
+        font-size: 40px;
+    }
+    .fz-35 {
+        font-size: 26px;
+    }
+    .advanced_addons_pricing_tbl.type-2 .block_head{
+        padding-bottom: 30px;
+    }
+    .advanced_addons_pricing_tbl.type-1 .block_circle p {
+        font-size: 14px;
+    }
+    .advanced_addons_pricing_tbl.type-1 .block_body {
+        padding-top: 30px;
+    }
+    .advanced_addons_pricing_tbl.type-3 h4 {
+        font-size: 20px;
+        line-height: 60px;
+    }
+    .advanced_addons_pricing_tbl.type-3 
+     .block_body {
+        padding: 0 10px;
+    }
+    .advanced_addons_pricing_tbl.type-3 .p-table-price {
+        padding: 20px 0;
+        border-bottom: 1px solid #e8e8e8;
+    }
+    .advanced_addons_pricing_tbl.type-3 .p-table-price h3 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .advanced_addons_pricing_tbl.type-4 .block_body ul li {
+        line-height: 24px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    .advanced_addons_pricing_tbl.type-4 .block_head h4 {
+        font-size: 18px;
+        line-height: 50px;
+    }
+    .advanced_addons_pricing_tbl.type-4 .block_body ul li.featured-list {
+        font-size: 14px;
+    }
+    .advanced_addons_pricing_tbl.type-4 .block_circle h3 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body h4 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body p {
+        font-size: 14px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body .block_body-inner {
+        padding: 20px 20px 0 20px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body {
+        padding: 0 20px 20px 20px;
+    }
+
+    .advanced_addons_pricing_tbl.type-5 .advanced_pricing_block_btn {
+        height: 45px;
+        padding: 0 20px;
+        color: #727272;
+        margin-top: 30px;
+        display: flex;
+        font-size: 14px;
+        width: 100%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .advanced_addons_pricing_tbl.type-5 .advanced_pricing_block_btn i{
+        margin-right: 5px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body ul li span {
+        font-size: 14px;
+        line-height: 50px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body ul {
+        margin-top: 15px;
+    }
+    .pt-120 {
+        padding-top: 80px;
+    }
+    .pb-120 {
+        padding-bottom: 80px;
+    }
+    .advanced_addons_pricing_tbl h4 {
+        line-height: 54px;
+    }
+    .advanced_addons_pricing_tbl.type-6 .block_body {
+        padding: 20px 20px 20px 20px;
+    }
+    .advanced_addons_pricing_tbl.type-6 .block_body ul li {
+        font-size: 13px;
+        line-height: 40px;
+    }
+    .fz-40 {
+        font-size: 30px;
+    }
+    .advanced_addons_pricing_tbl.type-6 .block_body ul {
+        text-align: left;
+        padding-bottom: 10px;
+    }
+    .advanced_addons_pricing_tbl.type-8 .block_body li {
+        font-size: 14px;
+        line-height: 38px;
+    }
+    .advanced_addons_pricing_tbl.type-8 .block_circle {
+        height: 170px;
+        width: 170px;
+        top: -14px;
+        padding-bottom: 12px;
+    }
+    .advanced_addons_pricing_tbl.type-8 .block_body {
+        padding-top: 100px;
+    }
+    .advanced_addons_pricing_tbl.type-8 .block_head h4 {
+        line-height: 70px;
+        font-size: 24px;
+    }
+    .advanced_addons_pricing_tbl.type-8 .block_circle::after {
+        top: 80px;
+    }
+    .advanced_addons_pricing_tbl.type-8 .block_circle h3 {
+        font-size: 26px;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_circle span {
+        bottom: 6px;
+        width: 80%;
+        line-height: 21px;
+        left: 19px;
+        background-size: contain !important;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_head {
+        padding: 0px 0px 0px 0;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_circle p {
+        font-size: 18px;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_circle {
+        height: 170px;
+        width: 170px;
+        top: -48px;
+        padding-top: 20px;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_body ul {
+        padding: 0 15px;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_body {
+        padding-top: 90px;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_footer {
+        padding: 15px 15px;
+    }
+    .advanced_addons_pricing_tbl.type-9 .advanced_pricing_block_btn {
+        line-height: 44px;
+        padding: 0px 28px;
+        font-size: 16px;
+    }
+    .advanced_addons_pricing_tbl.type-10 .block_head 
+ span {
+        font-size: 13px;
+        padding: 0 20px;
+    }
+    .advanced_addons_pricing_tbl.type-10 .block_head {
+        padding-top: 45px;
+        padding-bottom: 5px;
+    }
+    .advanced_addons_pricing_tbl.type-10.p-table-pk-1 .block_body ul {
+        padding: 0 15px;
+        padding-bottom: 30px;
+    }
+    .advanced_addons_pricing_tbl.type-10.p-table-pk-1 .block_footer h2 {
+        font-size: 60px;
+    }
+    .advanced_addons_pricing_tbl.type-10.p-table-pk-1 .block_footer h2 sup {
+        font-size: 16px;
+        margin-left: -13px;
+    }
+    .advanced_addons_pricing_tbl.type-10.featured .block_head {
+        padding-top: 60px;
+        padding-bottom: 25px;
+    }
+    .advanced_addons_pricing_tbl.type-11 .block_head::before {
+        height: 70px;
+        width: 70px;
+        left: 29px;
+        top: 6px;
+    }
+    .advanced_addons_pricing_tbl.type-11 .block_head::after {
+        height: 110px;
+        width: 110px;
+        right: 0px;
+        top: 64px;
+    }
+    .advanced_addons_pricing_tbl.type-11 .block_body {
+        padding: 30px 15px 0 15px;
+    }
+    .advanced_addons_pricing_tbl.type-11 .block_body ul li {
+        padding-bottom: 20px;
+        margin-top: 20px;
+        padding-left: 20px;
+    }
+    /*Dribble Blocks*/
+    .advanced_addons_instagram.type-1 .single-image {
+        flex: 0 0 33.3333333%;
+        -ms-flex: 0 0 33.3333333%;
+        max-width: 33.3333333%;
+    }
+    /*Featured Blocks*/
+    .advanced_addons_service.type-1 {
+        padding: 20px 20px 20px 20px;
+    }
+    .fz-20 {
+        font-size: 18px;
+    }
+    .advanced_addons_service.type-1 a {
+        font-size: 13px;
+    }
+    .mb-60 {
+        margin-bottom: 40px;
+    }
+    .pb-60 {
+        padding-bottom: 40px;
+    }
+    .advanced_addons_promo_box.type-1 > div:first-child {
+        margin-bottom: 15px;
+    }
+    .advanced_addons_promo_box.type-1 {
+        padding: 40px 40px 40px 40px;
+    }
+    /*Blockquote*/
+    .advanced_addons_quotes_card blockquote {
+        padding: 30px 35px 30px 50px;
+    }
+    .advanced_addons_quotes_card.type-1 h5 {
+        font-size: 22px;
+    }
+    .advanced_addons_quotes_card.type-1 p {
+        font-size: 14px;
+    }
+    .advanced_addons_quotes_card.type-2 blockquote {
+        padding: 20px 26px 25px 30px;
+    }
+    .advanced_addons_quotes_card.type-2 p {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    /**/
+    .fz-24 {
+        font-size: 20px;
+    }
+    .advanced_addons_search_box.type-1 {
+        padding: 40px 30px 40px 30px;
+    }
+    /*social links*/
+    .advanced_addons_social_links.type-1 ul li .block_label {
+        margin-left: 13px;
+        min-width: 84px;
+        font-size: 12px;
+    }
+    /*Team member*/
+    .advanced_addons_team_member.type-1 .hoverable-block {
+        width: calc(100% - 30px);
+    }
+    .advanced_addons_team_member.type-1 .hoverable-block li a {
+        height: 35px;
+        width: 35px;
+    }
+    /*Social Share*/
+    .advanced_addons_icon_group.capsul-style li a {
+        width: 135px;
+        font-size: 14px;
+        line-height: 40px;
+    }
+    .advanced_addons_icon_group.capsul-style li:not(:last-child) {
+        margin-right: 15px;
+    }
+    .advanced_addons_icon_group.solid.type-3 li:not(:last-child) {
+        margin-right: 20px;
+    }
+    .advanced_addons_icon_group.solid.type-3 li a {
+        height: 50px;
+        width: 50px;
+        font-size: 16px;
+    }
+    .advanced_addons_icon_group.squre-style.type-4
+     li a {
+        width: 150px;
+        height: 60px;
+        font-size: 14px;
+    }
+    .advanced_addons_icon_group.squre-style.type-4.ab-lg li a {
+        height: 85px;
+        font-size: 16px;
+    }
+    .advanced_addons_icon_group.squre-style.type-4.ab-lg li a i {
+        font-size: 26px;
+    }
+    .advanced_addons_testimonial_card.type-3 .section-icon {
+        font-size: 70px;
+    }
+    .advanced_addons_testimonial_card.type-2.boxed.transparent .section-icon {
+        font-size: 120px;
+    }
+}
+
+@media (max-width: 767px) {
+    .advanced_addons_promo_box.type-1 {
+        padding: 20px 20px 20px 20px;
+        flex-flow: column;
+        text-align: center;
+    }
+    .advanced_addons_clint_block.type-1 .single_item .block-image{
+        border-right: 0;
+    }
+    .advanced_addons_promo_box.type-1 > div:first-child {
+        margin-bottom: 15px;
+    }
+    .fz-24 {
+        font-size: 18px;
+    }
+    .advanced_addons_pricing_tbl.type-1 .block_circle {
+        margin-top: 20px;
+        height: 190px;
+        width: 190px;
+    }
+    .advanced_addons_blog_post.type-1 .block_post_title {
+        font-size: 20px;
+    }
+    .advanced_addons_pricing_tbl.type-1 .block_currency {
+        font-size: 57px;
+    }
+    .advanced_addons_pricing_tbl.type-1 h3 {
+        font-size: 34px;
+        line-height: 50px;
+    }
+    .advanced_addons_pricing_tbl.type-1 .block_body li {
+        font-size: 14px;
+        line-height: 9px;
+    }
+    .advanced_addons_pricing_tbl.type-2 .block_head {
+        padding-bottom: 15px;
+    }
+    .fz-50 {
+        font-size: 40px;
+    }
+    .fz-35 {
+        font-size: 30px;
+    }
+    .advanced_addons_pricing_tbl.type-3 .p-table-price h3 {
+        font-size: 31px;
+    }
+    .advanced_addons_pricing_tbl.type-3 .p-table-price {
+        padding: 20px 0;
+    }
+    .advanced_addons_pricing_tbl.type-3 
+     .block_body {
+        padding: 0 30px;
+    }
+    .pt-120 {
+        padding-top: 70px;
+    }
+    .pb-120 {
+        padding-bottom: 70px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body ul li span {
+        font-size: 16px;
+        line-height: 50px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body h4 {
+        font-size: 35px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body p {
+        font-size: 14px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body .block_body-inner {
+        padding: 20px 30px 0 30px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_body ul {
+        border-top: 2px solid #fbb71a;
+        margin-top: 20px;
+    }
+    .advanced_addons_pricing_tbl.type-5 .block_footer p {
+        text-align: center !important;
+    }
+    .advanced_addons_pricing_tbl.type-6 h4 {
+        line-height: 56px;
+    }
+    .advanced_addons_pricing_tbl.type-6 h3 {
+        line-height: 40px;
+    }
+    .advanced_addons_pricing_tbl.type-6 .block_body {
+        padding: 30px 30px 30px 30px;
+    }
+    .advanced_addons_pricing_tbl.type-9.featured {
+        margin-bottom: 90px;
+    }
+    .advanced_addons_pricing_tbl.type-9 .block_body {
+        padding-top: 110px;
+    }
+    .advanced_addons_pricing_tbl.type-10.p-table-pk-1{
+        margin-bottom: 60px;
+    }
+    .advanced_addons_pricing_tbl.type-11{
+        margin-bottom: 40px;
+    }
+    .advanced_addons_pricing_tbl.type-11 .block_head::after {
+        height: 110px;
+        width: 110px;
+        right: 14px;
+        top: 44px;
+    }
+    /*Section Title*/
+    .advanced_addons_section_title.type-1 p {
+        letter-spacing: 1px;
+        font-size: 12px;
+    }
+    .pb-60 {
+        padding-bottom: 40px;
+    }
+    .advanced_addons_btn_parent {
+        flex-wrap: wrap;
+    }
+
+    .advanced_addons_btn_parent div {
+        flex: 0 0 50%;
+        -ms-flex: 0 0 50%;
+        max-width: 50%;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+    /*Dribble Blocks*/
+    .advanced_addons_instagram.type-1 .single-image {
+        flex: 0 0 50%;
+        -ms-flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .advanced_addons_service.type-1 {
+        margin-bottom: 15px;
+        padding: 25px 25px 25px 25px;
+    }
+    .fz-40 {
+        font-size: 30px;
+    }
+    .fz-20 {
+        font-size: 16px;
+    }
+    .advanced_addons_section_title.type-1 h3 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    .mb-60 {
+        margin-bottom: 40px;
+    }
+    .advanced_addons_inline_notice h3 {
+        line-height: 50px;
+        font-size: 14px;
+    }
+    .advanced_addons_inline_notice.type-1 .advanced_addons_inline_body {
+        padding: 15px 15px 15px 15px;
+    }
+    /*Blockquote*/
+    .advanced_addons_quotes_card blockquote {
+        padding: 30px 35px 30px 50px;
+    }
+    .advanced_addons_quotes_card.type-1 h5 {
+        font-size: 22px;
+    }
+    .advanced_addons_quotes_card.type-1 p {
+        font-size: 14px;
+    }
+    .advanced_addons_quotes_card.type-2 blockquote {
+        padding: 20px 26px 25px 30px;
+    }
+    .advanced_addons_quotes_card.type-2 p {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .advanced_addons_quotes_card.type-2 blockquote {
+        border-left: 5px solid #e5e5e5;
+        margin-bottom: 0;
+    }
+   /* .advanced_addons_btn {
+        line-height: 40px;
+        font-size: 14px;
+    }*/
+    /*Searchbox*/
+    .advanced_addons_search_box.type-1 .row {
+        flex-flow: column !important;
+        text-align: center;
+    }
+    .advanced_addons_search_box.type-1 p {
+        margin-bottom: 15px;
+    }
+    /*Social links*/
+    .advanced_addons_social_links.type-1 ul li {
+        padding: 10px;
+        display: flex;
+        flex-flow: column;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .advanced_addons_social_links.type-1 ul li .block_label{
+        text-align: center;
+        margin-left: initial;
+    }
+    .advanced_addons_social_links.type-1 .block-body {
+        padding: 25px 0 25px 0;
+    }
+    .advanced_addons_social_links.type-1 h4 {
+        font-size: 18px;
+    }
+    .advanced_addons_social_links.type-1 .block-head {
+        padding: 25px 15px 25px 16px;
+        align-items: center;
+    }
+    /*Social share*/
+    .advanced_addons_social_share.type-1 .advanced_addons_icon_group {
+        margin-top: 0px;
+    }
+    .advanced_addons_social_share.type-1 h3 {
+        font-size: 20px;
+        margin-bottom: 12px;
+        line-height: 23px;
+    }
+    .advanced_addons_subscription.type-1 {
+        padding: 30px 15px 30px 15px;
+        text-align: center;
+    }
+    /*team member*/
+    .advanced_addons_team_member.type-1{
+        margin-bottom: 15px;
+    }
+    .advanced_addons_team_member.type-1 .hoverable-block{
+        width: calc(100% - 30px);
+    }
+    .advanced_addons_testimonial_card p {
+        font-size: 14px;
+    }
+    .advanced_addons_testimonial_card.type-1 {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    /*Timeline*/
+    .advanced_addons_timeline.type-1 .timeline_item div {
+        text-align: left;
+        flex-basis: 1px;
+        flex: 1;
+        margin-left: 0px;
+    }
+    .timeline_item {
+        width: calc(100% - 40px);
+    }
+    .advanced_addons_timeline::before {
+        left: 0;
+    }
+    .advanced_addons_timeline .timeline_item:nth-child(2n+1) {
+        align-self: flex-end;
+        flex-flow: row !important;
+    }
+    .advanced_addons_timeline .timeline_item:nth-child(2n+1) .timeline_icon {
+        margin-right: 15px;
+    }
+    .advanced_addons_timeline .timeline_item:nth-child(2n+1) .timeline_icon {
+        margin-left: 0;
+        position: relative;
+    }
+    .advanced_addons_timeline.type-1 .timeline_item:nth-child(2n+1)::before {
+        left: -49px;
+    }
+    .advanced_addons_timeline.type-1 .timeline_item:nth-child(2n+1)::after {
+        left: -43px;
+    }
+    .advanced_addons_timeline.type-1 .timeline_item:nth-child(2n+1) .timeline_icon::after {
+        left: -47px;
+    }
+    .advanced_addons_timeline.type-1 .timeline_item {
+        margin-bottom: 25px;
+    }
+    .advanced_addons_timeline.type-1::before {
+        height: calc(100% - 70px);
+    } 
+     /*Dribble*/
+     .advanced_addons_dribble_content {
+        margin-bottom: 15px;
+     }
+     /*Client slidder*/
+     .advanced_addons_clint_block.type-1 .single_item .block-image {
+        border-bottom: 1px solid #eeeeee;
+    }
+    .advanced_addons_clint_block.type-1 .single_item .block-image:last-child{
+        border-bottom: 0;
+    }
+    /*social share*/
+    .advanced_addons_icon_group.capsul-style li {
+        margin-right: 0;
+        margin-bottom: 15px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-right: 0 !important;
+    }
+    .advanced_addons_icon_group.capsul-style {
+        flex-wrap: wrap;
+    }
+    .advanced_addons_icon_group.squre-style.type-4 {
+        flex-wrap: wrap;
+        display: flex;
+        width: calc(100% - 30px);
+    }
+
+    .advanced_addons_icon_group.squre-style.type-4
+     li {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .advanced_addons_icon_group.squre-style.type-4
+     li a {
+        margin: 0;
+        width: 100%;
+    }
+    .advanced_addons_dribble.type-1 img {
+        max-width: 100%;
+        width: 100%;
+    }
+    .advanced_addons_dribble_images.type-1.low-gap .single-image {
+        flex: 0 0 50%;
+        -ms-flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .advanced_addons_dribble_area.type-2 .block-footer .advanced_addons_btn {
+        margin-left: 50px;
+    }
+    .advanced_addons_dribble_area.type-2 .block-footer .inner {
+        padding: 20px 35px;
+        flex-flow: column;
+    }
+    .advanced_addons_dribble_area.type-2 .block-footer .advanced_addons_btn {
+        margin-top: 25px;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 576px){
+    .advanced_addons_btn_parent div {
+        flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+    .mb-60 {
+        margin-bottom: 30px;
+    }
+    .advanced_addons_instagram.type-1 .single-image > div h5 {
+        letter-spacing: 2px;
+    }
+    .fz-18 {
+        font-size: 14px;
+    }
+    .advanced_addons_testimonial_card.type-1 h6::after {
+        right: -70px;
+    }
+    .advanced_addons_testimonial_card.type-1 h6::before, .advanced_addons_testimonial_card.type-1 h6::after {
+        width: 60px;
+        top: 15px;
+    }
+    .advanced_addons_testimonial_card h6 {
+        font-size: 15px;
+    }
+    .advanced_addons_testimonial_card.type-1 h6::before {
+        left: -70px;
+    }
+    .advanced_addons_testimonial_card.type-1 img {
+        margin-bottom: 20px;
+    }
+    .advanced_addons_testimonial_card.type-1 {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .advanced_addons_testimonial_slider.type-1 .slick-prev {
+        left: -5px;
+    }
+    .advanced_addons_testimonial_slider.type-1 .slick-next {
+        right: -5px;
+    }
+    .advanced_addons_dribble_images.type-1 .single-image {
+        flex: 0 0 50%;
+        -ms-flex: 0 0 50%;
+        max-width: 50%;
+        padding: 5px;
+    }
+    .advanced_addons_button_group.button_seperated button + button {
+        margin-left: 15px;
+    }
+    .btn_default {
+        min-width: 140px;
+    }
+    .advanced_addons_button_group.button_seperated .btn_default {
+        min-width: 130px;
+    }
+    /**/
+    .advanced_addons_icon_group.solid.type-3 li:not(:last-child) {
+        margin-right: 10px;
+    }
+    .advanced_addons_icon_group.solid.type-3 li a {
+        height: 45px;
+        width: 45px;
+        font-size: 14px;
+    }
+    .advanced_addons_icon_group.squre-style.type-4.ab-lg li a i {
+        font-size: 30px;
+        opacity: .13;
+    }
+    .advanced_addons_clients.type-3 .single_item {
+        flex: 0 0 100%;
+    }
+    /*alert*/
+    .advanced_addons_alert span i {
+        font-size: 12px;
+    }
+    .advanced_addons_alert.capsul.advanced_addons_alert_grad span strong {
+        margin-left: 6px;
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    /*comming soon*/
+    .advanced_addons_countdown.type-1 > span {
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .advanced_addons_countdown.type-1 > span > span {
+        font-size: 12px;
+    }
+    .advanced_addons_comming_soon.type-1 h2 {
+        line-height: 40px;
+        font-size: 28px;
+    }
+    .advanced_addons_search_box.type-1 {
+        padding: 60px 10px 60px 10px;
+    }
+    .advanced_addons_search_box.type-1 .advanced_addons_btn {
+        margin-left: -110px;
+        min-width: 106px;
+        font-size: 14px;
+    }
+    .advanced_addons_comming_soon.type-1 .block-content h4 {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    
+}
